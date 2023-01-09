@@ -18,8 +18,9 @@ function Home() {
               Hallo, I'm Kevin
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              I am a web developer with a vast array of knowledge in many
+              different front end and back end languages, responsive frameworks,
+              databases, and best code practices.
             </p>
 
             <Link href="/contact" className="cta">
